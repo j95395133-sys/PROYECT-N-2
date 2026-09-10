@@ -134,7 +134,7 @@ elif modulo == "Carga del Dataset":
             col2.metric("Columnas", df.shape[1])
 
             st.subheader("Vista previa del dataset")
-            st.dataframe(df.head(1201))
+            st.dataframe(df.head(1200))
 
             if st.checkbox("Mostrar tipos de columnas"):
                 st.write(df.dtypes)
