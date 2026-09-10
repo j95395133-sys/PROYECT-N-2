@@ -68,7 +68,7 @@ adolescentes de 13 a 19 anios. No se construyen modelos predictivos.
 
 1. Clonar el repositorio:
    ```
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/j95395133-sys/PROYECT-N-2.git
    ```
 2. Instalar dependencias:
    ```
