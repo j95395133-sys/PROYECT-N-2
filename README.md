@@ -1,8 +1,8 @@
-# 📊 Teen Mental Health – Análisis Exploratorio de Datos (EDA)
+Teen Mental Health – Análisis Exploratorio de Datos (EDA)
 
 **Caso de Estudio N°4 – Especialización en Python for Analytics**
 
-## 📝 Descripción del proyecto
+📝 Descripción del proyecto
 
 Aplicación interactiva construida con **Streamlit** para realizar un Análisis
 Exploratorio de Datos (EDA) sobre el dataset `Teen_Mental_Health_Dataset.csv`.
