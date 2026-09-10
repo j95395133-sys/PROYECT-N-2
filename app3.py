@@ -1,7 +1,3 @@
-# Caso de Estudio N4 - Especializacion en Python for Analytics
-# Analisis Exploratorio de Datos (EDA) - Teen Mental Health Dataset
-# Autor: Jesus Enrique Navio Ramirez
-
 import streamlit as st
 import pandas as pd
 import numpy as np
