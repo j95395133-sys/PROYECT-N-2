@@ -11,7 +11,6 @@ adolescentes de 13 a 19 anios. No se construyen modelos predictivos.
 
 ## Capturas de la aplicacion
 
-(Agregar aqui capturas del Home, la carga del dataset y el EDA)
 
 ## Instrucciones de ejecucion
 
