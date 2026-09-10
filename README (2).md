@@ -11,11 +11,16 @@ adolescentes de 13 a 19 anios. No se construyen modelos predictivos.
 
 ## Capturas de la aplicacion
 
-![Home](images/home.png)
-![Carga del Dataset](images/carga_dataset.png)
-![Info general](images/eda_info_general.png)
-![Distribuciones](images/eda_distribuciones.png)
-![Conclusiones](images/conclusiones.png)
+![Home](<img width="1880" height="753" alt="home" src="https://github.com/user-attachments/assets/47138868-1f17-4b00-9558-b5fb73220af0" />
+)
+![Carga del Dataset](<img width="1890" height="950" alt="carga_dataset" src="https://github.com/user-attachments/assets/3e344848-c99a-445e-8eb2-85340483858b" />
+)
+![Info general](<img width="1856" height="897" alt="eda_info_general" src="https://github.com/user-attachments/assets/f41ba6e6-d52d-4a7e-8854-7ced15ea416d" />
+)
+![Distribuciones](<img width="1862" height="872" alt="eda_distribuciones" src="https://github.com/user-attachments/assets/faffa0aa-7621-47ed-aab2-19a0b2c3121e" />
+)
+![Conclusiones](<img width="1862" height="846" alt="conclusiones" src="https://github.com/user-attachments/assets/d44df1d6-e960-4cf5-88a6-089d5ef72a03" />
+)
 
 ## Instrucciones de ejecucion
 
