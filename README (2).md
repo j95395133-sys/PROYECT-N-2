@@ -11,7 +11,7 @@ adolescentes de 13 a 19 anios. No se construyen modelos predictivos.
 
 ## Capturas de la aplicacion
 
-![Home](<img width="1880" height="753" alt="home" src="https://github.com/user-attachments/assets/47138868-1f17-4b00-9558-b5fb73220af0" />
+<img width="1880" height="753" alt="home" src="https://github.com/user-attachments/assets/47138868-1f17-4b00-9558-b5fb73220af0" />
 )
 ![Carga del Dataset](<img width="1890" height="950" alt="carga_dataset" src="https://github.com/user-attachments/assets/3e344848-c99a-445e-8eb2-85340483858b" />
 )
