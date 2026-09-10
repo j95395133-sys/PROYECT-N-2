@@ -1,0 +1,53 @@
+# Teen Mental Health Dataset - EDA
+
+Caso de Estudio N4 - Especializacion en Python for Analytics
+
+## Descripcion del proyecto
+
+Aplicacion en Streamlit para hacer un Analisis Exploratorio de Datos (EDA) del
+dataset Teen_Mental_Health_Dataset.csv. Se analizan habitos digitales,
+descanso, actividad fisica, interaccion social y variables de bienestar en
+adolescentes de 13 a 19 anios. No se construyen modelos predictivos.
+
+## Capturas de la aplicacion
+
+(Agregar aqui capturas del Home, la carga del dataset y el EDA)
+
+## Instrucciones de ejecucion
+
+1. Clonar el repositorio:
+   ```
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+2. Instalar dependencias:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Ejecutar la app:
+   ```
+   streamlit run app.py
+   ```
+4. Subir el archivo Teen_Mental_Health_Dataset.csv en el modulo "Carga del Dataset".
+
+## Variables principales
+
+| Variable | Descripcion |
+|---|---|
+| age | Edad del adolescente (13 a 19 anios) |
+| gender | Genero registrado |
+| daily_social_media_hours | Horas diarias de uso de redes sociales |
+| platform_usage | Plataforma usada: Instagram, TikTok o ambas |
+| sleep_hours | Horas de sueño por dia |
+| screen_time_before_sleep | Tiempo de pantalla antes de dormir |
+| academic_performance | Indicador de rendimiento academico |
+| physical_activity | Horas de actividad fisica |
+| social_interaction_level | Nivel de interaccion social |
+| stress_level | Nivel de estres (escala 1 a 10) |
+| anxiety_level | Nivel de ansiedad (escala 1 a 10) |
+| addiction_level | Nivel de dependencia (escala 1 a 10) |
+| depression_label | Etiqueta binaria: 0 = ausencia, 1 = presencia |
+
+## Links relevantes
+
+- Repositorio GitHub: <agregar link>
+- Aplicacion desplegada: <agregar link>
