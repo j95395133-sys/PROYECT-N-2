@@ -92,7 +92,7 @@ st.sidebar.info("Proyecto educativo y exploratorio. No es un diagnostico clinico
 if modulo == "Home":
     st.title("Teen Mental Health Dataset - Analisis Exploratorio de Datos")
 
-    st.markdown("**Nombre completo:** Jesus  Navio Ramirez")
+    st.markdown("**Nombre completo:** Jesus Enrique Navio Ramirez")
     st.markdown("**Modulo:** Caso de Estudio N4 - Analisis Exploratorio de Datos (EDA)")
     st.markdown("**Curso:** Especializacion en Python for Analytics")
     st.markdown("**Institucion:** DMC Institute")
