@@ -76,6 +76,6 @@ de profesionales de la salud.
 
 ## 👤 Autor
 
-- **Nombre completo:** [Tu Nombre Completo]
-- **Curso / Especialización:** Especialización en Python for Analytics
+- **Nombre completo:** JESUS ENRIQUE NAVIO RAMIREZ
+- **Especialización:** Especialización en Python for Analytics
 - **Año:** 2026
