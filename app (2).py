@@ -3,8 +3,8 @@ Caso de Estudio N°4 - Especialización en Python for Analytics
 Análisis Exploratorio de Datos (EDA) - Teen Mental Health Dataset
 Aplicación interactiva construida con Streamlit.
 
-Autor: [Tu Nombre Completo]
-Curso / Especialización: Especialización en Python for Analytics
+Autor: Jesus Enrique Nacvio Ramirez
+Especialización: Especialización en Python for Analytics
 Año: 2026
 """
 
